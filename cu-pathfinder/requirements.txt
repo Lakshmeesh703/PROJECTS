@@ -1,0 +1,21 @@
+# CU PathFinder - Complete Requirements
+# Backend Dependencies
+Flask==2.3.3
+Flask-CORS==4.0.0
+Werkzeug==2.3.7
+
+# Data Science and Visualization
+matplotlib==3.7.2
+numpy==1.24.3
+networkx==3.1
+pandas==2.0.3
+scipy==1.11.1
+plotly==5.15.0
+seaborn==0.12.2
+
+# Utilities
+colorama==0.4.6
+tabulate==0.9.0
+
+# Testing
+pytest==7.4.0
