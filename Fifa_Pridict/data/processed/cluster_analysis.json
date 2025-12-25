@@ -1,0 +1,179 @@
+{
+  "total_teams_analyzed": 48,
+  "n_finalists_selected": 8,
+  "clustering_method": "balanced",
+  "silhouette_score": 0.4489707311781583,
+  "inertia": 15.131335603390609,
+  "cluster_distribution": {
+    "cluster_0": {
+      "team_count": 6,
+      "avg_performance": 0.7631666666666667,
+      "avg_rank": 75.0,
+      "teams": [
+        "Algeria",
+        "Côte d'Ivoire",
+        "Ecuador",
+        "Egypt",
+        "Ghana",
+        "Paraguay"
+      ]
+    },
+    "cluster_1": {
+      "team_count": 10,
+      "avg_performance": 0.8435,
+      "avg_rank": 75.0,
+      "teams": [
+        "Argentina",
+        "Brazil",
+        "England",
+        "Belgium",
+        "France",
+        "Germany",
+        "Italy",
+        "Netherlands",
+        "Portugal",
+        "Spain"
+      ]
+    },
+    "cluster_2": {
+      "team_count": 4,
+      "avg_performance": 0.6619999999999999,
+      "avg_rank": 75.0,
+      "teams": [
+        "South Africa",
+        "Costa Rica",
+        "Guatemala",
+        "Panama"
+      ]
+    },
+    "cluster_3": {
+      "team_count": 5,
+      "avg_performance": 0.7934,
+      "avg_rank": 75.0,
+      "teams": [
+        "Colombia",
+        "Morocco",
+        "Senegal",
+        "Uruguay",
+        "Croatia"
+      ]
+    },
+    "cluster_4": {
+      "team_count": 3,
+      "avg_performance": 0.695,
+      "avg_rank": 75.0,
+      "teams": [
+        "New Zealand",
+        "Honduras",
+        "Jamaica"
+      ]
+    },
+    "cluster_5": {
+      "team_count": 7,
+      "avg_performance": 0.7859999999999999,
+      "avg_rank": 75.0,
+      "teams": [
+        "Austria",
+        "Denmark",
+        "Norway",
+        "Poland",
+        "Sweden",
+        "Switzerland",
+        "Ukraine"
+      ]
+    },
+    "cluster_6": {
+      "team_count": 6,
+      "avg_performance": 0.7593333333333333,
+      "avg_rank": 75.0,
+      "teams": [
+        "Canada",
+        "IR Iran",
+        "Japan",
+        "Korea Republic",
+        "Mexico",
+        "USA"
+      ]
+    },
+    "cluster_7": {
+      "team_count": 7,
+      "avg_performance": 0.708,
+      "avg_rank": 75.0,
+      "teams": [
+        "Australia",
+        "Cabo Verde",
+        "Jordan",
+        "Qatar",
+        "Saudi Arabia",
+        "Tunisia",
+        "Uzbekistan"
+      ]
+    }
+  },
+  "selected_teams_summary": [
+    {
+      "rank": 1,
+      "name": "France",
+      "confederation": "UEFA",
+      "performance_score": 0.858,
+      "fifa_rank": 2,
+      "cluster_id": 1
+    },
+    {
+      "rank": 2,
+      "name": "Uruguay",
+      "confederation": "CONMEBOL",
+      "performance_score": 0.799,
+      "fifa_rank": 11,
+      "cluster_id": 3
+    },
+    {
+      "rank": 3,
+      "name": "Switzerland",
+      "confederation": "UEFA",
+      "performance_score": 0.798,
+      "fifa_rank": 20,
+      "cluster_id": 5
+    },
+    {
+      "rank": 4,
+      "name": "Côte d'Ivoire",
+      "confederation": "CAF",
+      "performance_score": 0.783,
+      "fifa_rank": 46,
+      "cluster_id": 0
+    },
+    {
+      "rank": 5,
+      "name": "Japan",
+      "confederation": "AFC",
+      "performance_score": 0.781,
+      "fifa_rank": 15,
+      "cluster_id": 6
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabia",
+      "confederation": "AFC",
+      "performance_score": 0.722,
+      "fifa_rank": 59,
+      "cluster_id": 7
+    },
+    {
+      "rank": 7,
+      "name": "Jamaica",
+      "confederation": "CONCACAF",
+      "performance_score": 0.704,
+      "fifa_rank": 62,
+      "cluster_id": 4
+    },
+    {
+      "rank": 8,
+      "name": "Panama",
+      "confederation": "CONCACAF",
+      "performance_score": 0.667,
+      "fifa_rank": 36,
+      "cluster_id": 2
+    }
+  ]
+}

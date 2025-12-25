@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flask
+instance/
+.webassets-cache
+
+# Kaggle credentials (IMPORTANT!)
+kaggle.json
+kaggle API key.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - comment out if you want to include them)
+# *.csv
+# *.pkl
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test/Debug scripts
+check_*.py
+test_*.py
+debug_*.py
+
+# Duplicate visualization files
+static/hybrid_selection_visualization.png
+static/cluster_visualization.png
+TASK_6_Deployment/app/static/*.png

@@ -1,0 +1,49 @@
+team_name,confederation,composite_score,rank,total.points,status
+Argentina,CONMEBOL,0.7811,1,1867.25,Qualified
+England,UEFA,0.7615,4,1813.81,Qualified
+Brazil,CONMEBOL,0.7507,5,1775.85,Qualified
+Uruguay,CONMEBOL,0.6864,11,1695.91,Qualified
+Colombia,CONMEBOL,0.6464,12,1694.44,Qualified
+Morocco,CAF,0.6458,14,1688.18,Qualified
+Japan,AFC,0.6508,15,1652.79,Qualified
+USA,CONCACAF,0.598,16,1645.48,Qualified
+Senegal,CAF,0.6149,17,1637.25,Qualified
+IR Iran,AFC,0.5836,18,1635.31,Qualified
+Mexico,CONCACAF,0.6529,19,1627.4,Qualified
+Korea Republic,AFC,0.5249,23,1585.45,Qualified
+Ecuador,CONMEBOL,0.584,24,1560.13,Qualified
+Australia,AFC,0.5496,26,1544.15,Qualified
+Canada,CONCACAF,0.5377,31,1515.96,Qualified
+Egypt,CAF,0.5224,33,1513.48,Qualified
+Algeria,CAF,0.5159,37,1495.85,Qualified
+Côte d'Ivoire,CAF,0.464,46,1478.47,Qualified
+Qatar,AFC,0.4854,48,1474.6,Qualified
+Tunisia,CAF,0.4733,52,1464.42,Qualified
+Paraguay,CONMEBOL,0.484,53,1458.26,Qualified
+South Africa,CAF,0.4441,57,1428.87,Qualified
+Uzbekistan,AFC,0.4394,58,1424.93,Qualified
+Saudi Arabia,AFC,0.4173,59,1406.56,Qualified
+Jordan,AFC,0.4083,64,1375.91,Qualified
+Cabo Verde,CAF,0.3514,72,1328.51,Qualified
+Ghana,CAF,0.362,77,1320.52,Qualified
+New Zealand,OFC,0.3211,89,1269.83,Qualified
+Spain,UEFA,0.7973,3,1853.27,Projected (Direct)
+France,UEFA,0.7781,2,1859.78,Projected (Direct)
+Portugal,UEFA,0.7259,6,1756.12,Projected (Direct)
+Belgium,UEFA,0.7232,8,1740.62,Projected (Direct)
+Italy,UEFA,0.7113,9,1731.51,Projected (Direct)
+Netherlands,UEFA,0.7088,7,1747.55,Projected (Direct)
+Germany,UEFA,0.6839,10,1703.79,Projected (Direct)
+Croatia,UEFA,0.6616,13,1691.59,Projected (Direct)
+Switzerland,UEFA,0.6266,20,1625.16,Projected (Direct)
+Denmark,UEFA,0.6068,21,1611.49,Projected (Direct)
+Austria,UEFA,0.588,22,1589.84,Projected (Direct)
+Sweden,UEFA,0.5779,27,1540.2,Projected (Direct)
+Ukraine,UEFA,0.5638,25,1554.94,Projected (Direct)
+Hungary,UEFA,0.5508,30,1517.57,Projected (Direct)
+Poland,UEFA,0.5392,35,1510.62,Projected (Direct)
+Panama,CONCACAF,0.5264,36,1504.39,Projected (Direct)
+Costa Rica,CONCACAF,0.4706,54,1454.99,Projected (Direct)
+Jamaica,CONCACAF,0.406,62,1390.85,Projected (Direct)
+Panama,CONCACAF,0.5264,36,1504.39,Projected (Playoff)
+Chile,CONMEBOL,0.5013,50,1469.44,Projected (Playoff)

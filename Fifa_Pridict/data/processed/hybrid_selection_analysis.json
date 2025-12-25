@@ -1,0 +1,75 @@
+{
+  "selection_method": "Top 8 by Performance Score",
+  "total_teams_analyzed": 48,
+  "finalists_selected": 8,
+  "confederation_distribution": {
+    "UEFA": 6,
+    "CONMEBOL": 2
+  },
+  "top_8_teams": [
+    {
+      "rank": 1,
+      "name": "France",
+      "confederation": "UEFA",
+      "performance_score": 0.858,
+      "fifa_rank": 2,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 2,
+      "name": "Spain",
+      "confederation": "UEFA",
+      "performance_score": 0.856,
+      "fifa_rank": 3,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 3,
+      "name": "Brazil",
+      "confederation": "CONMEBOL",
+      "performance_score": 0.85,
+      "fifa_rank": 5,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 4,
+      "name": "England",
+      "confederation": "UEFA",
+      "performance_score": 0.849,
+      "fifa_rank": 4,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 5,
+      "name": "Germany",
+      "confederation": "UEFA",
+      "performance_score": 0.846,
+      "fifa_rank": 10,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 6,
+      "name": "Italy",
+      "confederation": "UEFA",
+      "performance_score": 0.841,
+      "fifa_rank": 9,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 7,
+      "name": "Portugal",
+      "confederation": "UEFA",
+      "performance_score": 0.841,
+      "fifa_rank": 6,
+      "selection_method": "Top 8 Performance"
+    },
+    {
+      "rank": 8,
+      "name": "Argentina",
+      "confederation": "CONMEBOL",
+      "performance_score": 0.836,
+      "fifa_rank": 1,
+      "selection_method": "Top 8 Performance"
+    }
+  ]
+}
